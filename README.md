@@ -11,7 +11,7 @@
 
 
 
-|[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelpSousaS)](https://github.com/anuraghazra/github-readme-stats)|
+|[![GitHub Streak](https://streak-stats.demolab.com?user=FelpSousaS&theme=tokyonight&locale=pt_BR)](https://git.io/streak-stats)|
 |---|---|
 
 |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelpSousaS&langs_count=15&layout=compact&hide_progress=true&theme=tokyonight)](https://github.com/FelpSousaS/github-readme-stats)|
