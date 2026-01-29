@@ -11,17 +11,17 @@
 
 
 
-|[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=FelpSousaS&theme=tokyonight&locale=pt_BR)](https://git.io/streak-stats)|
-|---|---|
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=FelpSousaS&theme=tokyonight&locale=pt_BR)](https://git.io/streak-stats)
 
-|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelpSousaS&langs_count=15&layout=compact&hide_progress=true&theme=tokyonight)](https://github.com/FelpSousaS/github-readme-stats)|
+
+|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelpSousaS&layout=compact)](https://github.com/EthanJamesLew/github-readme-stats-academic)|
 |---|
 
 
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,js,ts,html,css,react,vue,spring,androidstudio,git&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,js,ts,python,html,css,react,vue,spring,androidstudio,git&theme=light)](https://skillicons.dev)
 
 
 <img src="https://github.com/getintorj/getintorj/blob/master/line-neon.gif" width="100%"> 
